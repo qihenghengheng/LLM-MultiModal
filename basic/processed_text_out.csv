@@ -1,0 +1,4 @@
+text,processed_tokens
+"I love Large Language Models! Large models are powerful, but they also have hallucination problems!!!","['love', 'large', 'language', 'models', 'large', 'models', 'powerful', 'hallucination', 'problems']"
+Multimodal models combine image and text information; they can answer questions about pictures.,"['multimodal', 'models', 'combine', 'image', 'and', 'text', 'information', 'answer', 'questions', 'pictures']"
+"Machine learning requires good datasets, high‑quality data is very important for training.","['machine', 'learning', 'requires', 'good', 'datasets', 'high‑quality', 'data', 'very', 'important', 'training']"
