@@ -1,0 +1,22 @@
+[
+    {
+        "instruction": "请解释什么是Transformer",
+        "input": "",
+        "output": "Transformer是基于自注意力机制的深度学习模型，抛弃循环结构，支持并行训练，由编码器Encoder和解码器Decoder组成，是现代大语言模型的基础。"
+    },
+    {
+        "instruction": "什么是LoRA微调",
+        "input": "",
+        "output": "LoRA是大模型轻量化微调技术，冻结原始模型权重，只训练少量低秩矩阵，显存消耗小，推理没有额外延迟。"
+    },
+    {
+        "instruction": "BERT和GPT有什么区别",
+        "input": "",
+        "output": "BERT是Encoder‑Only双向注意力，侧重文本理解；GPT是Decoder‑Only带掩码单向自注意力，擅长文本生成对话。"
+    },
+    {
+        "instruction": "什么是自注意力QKV",
+        "input": "",
+        "output": "Q是查询，K是键，V是值；计算Q与K相似度得到注意力权重，加权求和V，实现模型对不同token的关注。"
+    }
+]
